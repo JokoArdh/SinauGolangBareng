@@ -27,7 +27,7 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
   Jika mengalami kendala anda bisa mengunjungi dan bertanya di situs [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
 
 ### 🙇🏼 Diskusi 
-jika anda atau kalian menghendaki belajar sambil diskusi silahkan join [Telegram](https://t.me/disRKW)
+jika anda atau kalian menghendaki belajar sambil diskusi bareng silahkan join [Telegram](https://t.me/disRKW)
 
 ### 🙏 Thanks To
 - Allah SWT
