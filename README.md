@@ -6,4 +6,20 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
 - Bahasa yang digunakan ini : Bahasa Indonesia
 - Situs Resmi : [WEb](https://go.dev/ "Lihat Situs officialnya ")
 
+### 🎒 Tools
+- Golang [Download](https://go.dev/)
+- Visual Studio Code [Download](https://code.visualstudio.com/download)
+
+### Instalasi Bahasa Go
+- Download terlebih dahulu Go
+- Sesuaikan dengan OS masing-masing
+- Seteleh didownload klik 2x (windows) kemudian ikuti proses instalasinya cukup mudah kok jadi tenang aja
+- setelah ke install cek apakah golang sudah terintsal dengan buka CMD ketikan [go] [version]
+
+### 👨‍💻 Author
+> Joko Ardiyanto
+  Universitas Boyolali
+  Prodi S1 Teknik informatika
+  Email c20010007@uby.ac.id
+  Web https://jokoardiblog.wordpress.com
 
