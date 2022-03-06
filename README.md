@@ -17,9 +17,9 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
 - setelah ke install cek apakah golang sudah terintsal dengan buka CMD ketikan [go] [version]
 
 ### 👨‍💻 Author
-> Joko Ardiyanto
-Universitas Boyolali
-Prodi S1 Teknik informatika
-Email c20010007@uby.ac.id
-Web https://jokoardiblog.wordpress.com
+>Joko Ardiyanto
+  Universitas Boyolali
+  Prodi S1 Teknik informatika
+  Email c20010007@uby.ac.id
+  Web https://jokoardiblog.wordpress.com
 
