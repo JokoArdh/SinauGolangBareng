@@ -18,8 +18,8 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
 
 ### 👨‍💻 Author
 >Joko Ardiyanto
-  Universitas Boyolali
-  Prodi S1 Teknik informatika
-  Email c20010007@uby.ac.id
-  Web https://jokoardiblog.wordpress.com
+  - Universitas Boyolali
+  - Prodi S1 Teknik informatika
+  - Email c20010007@uby.ac.id
+  - Web https://jokoardiblog.wordpress.com
 
