@@ -23,3 +23,26 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
   - Email c20010007@uby.ac.id
   - Web https://jokoardiblog.wordpress.com
 
+### 🛠️ Kendala
+  Jika mengalami kendala anda bisa mengunjungi dan bertanya di situs [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
+
+### 🙇🏼 Diskusi 
+jika anda atau kalian menghendaki belajar sambil diskusi silahkan join [Telegram](https://t.me/disRKW)
+
+### 🙏 Thanks To
+- Allah SWT
+- My Parents and Family
+- All Friend of FIK UBY
+- All Site Reference
+- Couerse at Programmer Zaman Now and Sanbercode
+- And Mas andhy as Friend who Learning at Sanbercode Bootcamp
+
+### ☕ Referensi, Lisensi Sumber Perangkat Lunak terbuka, Kontribusi
+- [Sanbercode](https://sanbercode.com/)
+- [Golang](https://go.dev/)
+- [Programmerzamannow](https://www.programmerzamannow.com/)
+
+### 🔐 License
+Repository created 3 Maret 2022 by Joko ardiyanto under *MIT License*
+
+
