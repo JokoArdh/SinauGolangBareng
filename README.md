@@ -16,6 +16,16 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
 - Seteleh didownload klik 2x (windows) kemudian ikuti proses instalasinya cukup mudah kok jadi tenang aja
 - setelah ke install cek apakah golang sudah terintsal dengan buka CMD ketikan [go] [version]
 
+### ### 📝 Dasar Command di Golang
+ada beberapa perintah yang digunakan dalam bahasa Go sebagai basic kita akan belajar perintah dasar. untuk membuat file golang harus di akhire .go semisal program.go , dan ada beberapa perintah antaranya :
+> go version                : untuk mengecek golang apakah sudah terinstall
+> go rub (nama file .go)    : untuk menjalankan file golang
+> go build (nama file )     : untuk menjadikan file menjadi binary file .exe
+> go mod init (nama projek) : untuk mebuat sebuah module / root folder
+> go get (nama repository)  : untuk instalasi package/library dari luar
+> go test -v -run=(nama test func) : menjalankan testing function pada golang
+
+
 ### 👨‍💻 Author
 >Joko Ardiyanto
   - Universitas Boyolali
@@ -35,7 +45,7 @@ jika anda atau kalian menghendaki belajar sambil diskusi bareng silahkan join [T
 - All Friend of FIK UBY
 - All Site Reference
 - Couerse at Programmer Zaman Now and Sanbercode
-- And Mas andhy as Friend who Learning at Sanbercode Bootcamp
+- And [Mas andhy](https://github.com/trebucet)  as Friend who Learning at Sanbercode Bootcamp
 
 ### ☕ Referensi, Lisensi Sumber Perangkat Lunak terbuka, Kontribusi
 - [Sanbercode](https://sanbercode.com/)
@@ -43,6 +53,6 @@ jika anda atau kalian menghendaki belajar sambil diskusi bareng silahkan join [T
 - [Programmerzamannow](https://www.programmerzamannow.com/)
 
 ### 🔐 License
-Repository created 3 Maret 2022 by Joko ardiyanto under *MIT License*
+Repository created 3 Maret 2022 by Joko Ardiyanto under *MIT License*
 
 
