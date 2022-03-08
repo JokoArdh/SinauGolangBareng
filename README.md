@@ -18,12 +18,12 @@ Repository ini adalah catatan belajar bahasa Pemrograman Golang
 
 ### ### 📝 Dasar Command di Golang
 ada beberapa perintah yang digunakan dalam bahasa Go sebagai basic kita akan belajar perintah dasar. untuk membuat file golang harus di akhire .go semisal program.go , dan ada beberapa perintah antaranya :
-> go version                : untuk mengecek golang apakah sudah terinstall
-> go rub (nama file .go)    : untuk menjalankan file golang
-> go build (nama file )     : untuk menjadikan file menjadi binary file .exe
-> go mod init (nama projek) : untuk mebuat sebuah module / root folder
-> go get (nama repository)  : untuk instalasi package/library dari luar
-> go test -v -run=(nama test func) : menjalankan testing function pada golang
+- *go version                : untuk mengecek golang apakah sudah terinstall*
+- *go rub (nama file .go)    : untuk menjalankan file golang*
+- *go build (nama file )     : untuk menjadikan file menjadi binary file .exe*
+- *go mod init (nama projek) : untuk mebuat sebuah module / root folder*
+- *go get (nama repository)  : untuk instalasi package/library dari luar*
+- *go test -v -run=(nama test func) : menjalankan testing function pada golang*
 
 
 ### 👨‍💻 Author
