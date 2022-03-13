@@ -25,6 +25,20 @@ ada beberapa perintah yang digunakan dalam bahasa Go sebagai basic kita akan bel
 - `go get (nama repository)  : untuk instalasi package/library dari luar`
 - `go test -v -run=(nama test func) : menjalankan testing function pada golan`
 
+### ✔️ Path / Runtutan Belajar Golang 
+- [x] intro-go
+- [x] data stuktur (array, mapo, slice)
+- [x] perulangan
+- [x] function
+- [x] pointer
+- [x] struct
+- [x] interfaces
+- [x] eror handling
+- [x] perulangan
+- [x] Unit testing
+- [x] gorutine awal
+- [x] gorutine + unit testing
+
 
 ### 👨‍💻 Author
 >Joko Ardiyanto
